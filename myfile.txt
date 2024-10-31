@@ -7,3 +7,5 @@ new line form issue2 branch
 new line from main from local device
 
 new line from main from github
+
+learn how to fetch
